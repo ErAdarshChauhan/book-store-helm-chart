@@ -3,9 +3,19 @@ entries:
   book-store-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-19T12:13:49.877848461Z"
+    created: "2024-03-19T12:31:57.070604002Z"
+    description: A Helm chart for Book Store Tool
+    digest: 1c2516ffdad0568d451a94f8af98158bf1e08d9f89e5b7c678362276a77ff7cc
+    name: book-store-helm-chart
+    type: application
+    urls:
+    - package/book-store-helm-chart-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-19T12:31:57.069963889Z"
     description: A Helm chart for Kubernetes
-    digest: 284dcff10d32f2fb7b0203cdafadf5259478da2e6c49da8796fc8f8e90709cf1
+    digest: 1665fc9ceb385d39b0f4d92d01af0cd6d2c9ab773752b8d34207eeb28cb40b78
     name: book-store-helm-chart
     type: application
     urls:
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-19T12:13:49.877235576Z"
+    created: "2024-03-19T12:31:57.069423641Z"
     description: A Helm chart for Kubernetes
     digest: ace11f1069fa1732f8879cbfd487d09b1a9eef7ee56b15dd04024c796580711d
     name: book-store-helm-chart
@@ -21,4 +31,4 @@ entries:
     urls:
     - package/book-store-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-19T12:13:49.872208982Z"
+generated: "2024-03-19T12:31:57.068600137Z"
